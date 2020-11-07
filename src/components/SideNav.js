@@ -29,7 +29,7 @@ const NavItem = styled.span`
 	font-family: Roboto;
 	text-transform: uppercase;
 	cursor: pointer;
-	padding-left: 16px;
+	padding-left: 24px;
 	box-sizing: border-box;
 	justify-content: space-between;
 `;

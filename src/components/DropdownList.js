@@ -20,9 +20,9 @@ const TitleWrapper = styled.span`
 	border-bottom: 1px solid lightgray;
 	padding: 8px 0px;
 	 ${({ sideNav }) => sideNav && `
-		justify-content: center;
 		color: #EEB902;
 		font-style: italic;
+		padding-left: 12px;
 	`};
 `;
 
@@ -47,9 +47,9 @@ const ItemWrapper = styled.li`
 	width: 100%;
 	padding: 8px 0px;
 	 ${({ sideNav }) => sideNav && `
-		padding-left: 16px;
+		padding-left: 12px;
 		text-transform: none;
-		font-weight: normal;
+		font-weight: 400;
 		color: white;
 	`};
 `;
