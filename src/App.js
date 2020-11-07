@@ -3,7 +3,6 @@ import Header from './Header';
 const menuItems = [
   "Teams", "Tickets", "Patriot Club", "Inside Athletics", "Fan Central"
 ];
-
 const mensSports = [ 'Baseball', 'Basketball', 'Cross Country'];
 const womensSports = [ 'Basketball', 'Cross Country'];
 
